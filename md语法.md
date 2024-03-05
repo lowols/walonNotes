@@ -6,7 +6,7 @@ baiwang.output.terminal.query(开票终端信息查询2.0)
 
 ## 图片
 
- ![image](imageTest.jpg)
+ ![image](abc.jpg)
 
 ## 列表
 
